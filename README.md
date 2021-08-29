@@ -2,4 +2,4 @@
 
 -Developer from Poland.
 -Open source projects.
--Some original projects
+-Some cool code ;D
