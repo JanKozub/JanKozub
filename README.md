@@ -2,4 +2,5 @@
 
 -Developer from Poland.
 -Open source projects.
--Some cool code ;D
+-Java enjoyer
+-JavaScript, Java, Typescript, C++, C and more around here ;d 
