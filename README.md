@@ -1,2 +1,4 @@
-👋 Hi, I’m @JanKozub
-I'm a developer from Poland programming since 2016. My public repositories are just some fun project free to copy or check out(java, js, ts, C++, more).
+👋 Hi,   
+My name is Jan, and I'm a developer from Poland who has been programming since 2016(Java, JS, Ts, C++, Swift, web technologies, and more).  
+
+My portfolio: [click here](https://jankozub.github.io/portfolio/index.html)
